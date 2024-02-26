@@ -75,7 +75,7 @@
 ![Image Description](7.png)
 
 - **Keypresses:** 
-    -  `git push` > `Key` was used.
+    -  `git push` > `<enter>` 
 - **Commands and Effects:** 
     - `git push`: Uploads all local branch commits to the remote repository, updating it with the local changes.
 
