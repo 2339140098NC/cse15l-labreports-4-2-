@@ -2,82 +2,83 @@
 
 ## Section 1:  
 
-![Image Description](path/to/your/image1.png)
+![Image Description](1.png)
 
 - **Keypresses:** 
-    - To reach this step, I pressed `Key1` > `Key2` > `<enter>`.
+    - To reach this step, I pressed `ssh` > `necha@ieng6.ucsd.edu` > `<enter>`.
 - **Commands and Effects:** 
-    - The command `your_command_here` was used, resulting in [describe the effect].
+    - log in to remote server without password
 
 ---
 
 ## Section 2:  
 
-![Image Description](path/to/your/image2.png)
+![Image Description](2.png)
 
 - **Keypresses:** 
-    - To execute this, I used `Key1` + `<shift>` + `<tab>`.
+    - To execute this, I used `git clone ` + `ssh link` + `<enter>`.
 - **Commands and Effects:** 
-    - Running `another_command_here` caused [describe the effect].
+    - clone the repository I forked to remote server with ssh link
 
 ---
 
 ## Section 3:  
 
-![Image Description](path/to/your/image3.png)
+![Image Description](3.png)
 
 - **Keypresses:** 
-    - The sequence `Key1` > `<alt>` + `Key2` was essential.
+    - The sequence `bash test.sh` > `<enter>` 
 - **Commands and Effects:** 
-    - This led to executing `your_next_command`, which accomplished [describe the effect].
+    - compile the program and run the tests, give feedbacks from those tests
 
 ---
 
 ## Section 4:  
 
-![Image Description](path/to/your/image4.png)
+![Image Description](4.png)
 
 - **Keypresses:** 
-    - A crucial combination was `<ctrl>` + `Key`.
-- **Commands and Effects:** 
-    - The effect of `command_here` was [describe what happened].
+    - `vim <file name>``/change` >  `<enter>`, `<down>`, `<right>`, `<right>`, `<right>`, `1`, `<backspace>`, `2`, `<esc>`, `:wq`
+- **Commands and Effects:**
+    - `vim <filename>`
+    - `/change` to locate to the position where it's closest to where the error is located
+    - `i` to edit the file in vim to edit the file
+    - `<esc>` to quit from editing
+    - `:wq` save changes and quit vim
 
 ---
 
 ## Section 5:  
 
-![Image Description](path/to/your/image5.png)
+![Image Description](5.png)
 
 - **Keypresses:** 
-    - Navigating here required `Key` + `<arrow key>`.
+    -  `bash test.sh` + `<enter>`.
 - **Commands and Effects:** 
-    - By using `specific_command`, it resulted in [describe the outcome].
+    - compile the program and run the tests, give feedbacks from those tests
 
 ---
 
 ## Section 6:  
 
-![Image Description](path/to/your/image6.png)
+![Image Description](6.png)
 
 - **Keypresses:** 
-    - Activation was through `<F1>` > `Key`.
+    - `git commit -m "commit message"` > `<enter>`.
 - **Commands and Effects:** 
-    - Consequently, `another_effective_command` had the effect of [explain the result].
+    - `git commit` : Captures the staged changes in the repository, creating a new commit with a descriptive message.
 
 ---
 
 ## Section 7:  
 
-![Image Description](path/to/your/image7.png)
+![Image Description](7.png)
 
 - **Keypresses:** 
-    - For this action, `<esc>` > `Key` was used.
+    -  `git push` > `Key` was used.
 - **Commands and Effects:** 
-    - The use of `final_command` led to [detail the final outcome].
+    - `git push`: Uploads all local branch commits to the remote repository, updating it with the local changes.
 
 ---
 
-## Conclusion
-
-[Provide a summary of the lab report, highlighting key findings, learnings, and any challenges faced during the lab exercises.]
 
